@@ -273,7 +273,7 @@ export default function SalesPage() {
             }} />
             <div style={{ position: "absolute", top: "1.5rem", left: "1.5rem", right: "1.5rem" }}>
               <h2 style={{ fontSize: "1.5rem", fontWeight: 700, color: "white", textShadow: "0 1px 3px rgba(0,0,0,0.3)", marginBottom: "0.5rem" }}>
-                Ana Fla 💋
+                Ana Flávia 💋
               </h2>
               <div style={{ display: "flex", alignItems: "center", gap: "1rem", fontSize: "0.875rem", color: "white" }}>
                 <div style={{ display: "flex", alignItems: "center", gap: "0.25rem" }}>
