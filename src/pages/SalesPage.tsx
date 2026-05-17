@@ -100,8 +100,8 @@ function PostCard({ likes, comments }: PostCardProps) {
             }}
           />
           <div>
-            <h4 style={{ fontSize: "0.875rem", fontWeight: 500, marginBottom: "0.125rem" }}>Viviane Noronha</h4>
-            <p style={{ fontSize: "0.75rem", color: "#6b7280" }}>@noronhavivii</p>
+            <h4 style={{ fontSize: "0.875rem", fontWeight: 500, marginBottom: "0.125rem" }}>Ana Flavia</h4>
+            <p style={{ fontSize: "0.75rem", color: "#6b7280" }}>@affbahxx</p>
           </div>
         </div>
         <button style={{
@@ -273,7 +273,7 @@ export default function SalesPage() {
             }} />
             <div style={{ position: "absolute", top: "1.5rem", left: "1.5rem", right: "1.5rem" }}>
               <h2 style={{ fontSize: "1.5rem", fontWeight: 700, color: "white", textShadow: "0 1px 3px rgba(0,0,0,0.3)", marginBottom: "0.5rem" }}>
-                Viviane Noronha 💋
+                Ana Fla 💋
               </h2>
               <div style={{ display: "flex", alignItems: "center", gap: "1rem", fontSize: "0.875rem", color: "white" }}>
                 <div style={{ display: "flex", alignItems: "center", gap: "0.25rem" }}>
@@ -320,12 +320,12 @@ export default function SalesPage() {
             {/* Name + badge */}
             <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
               <span style={{ display: "block", fontSize: "1.125rem", fontWeight: 600, color: "#1f2937", marginBottom: "0.25rem" }}>
-                Viviane Noronha
+                Ana Flavia
               </span>
               <CheckBadge />
             </div>
 
-            <p style={{ fontSize: "0.875rem", color: "#6b7280", marginBottom: "0.5rem" }}>@albumts</p>
+            <p style={{ fontSize: "0.875rem", color: "#6b7280", marginBottom: "0.5rem" }}>@affbahxx</p>
 
             {/* Bio */}
             <div style={{ marginBottom: 10 }}>
@@ -338,7 +338,7 @@ export default function SalesPage() {
                 fontSize: "0.875rem",
                 color: "#374151"
               } as React.CSSProperties}>
-                Oi, meu amor! 🔥💦 Sou a Vivi Trans, organizadora desse album feito só pra você. Separei-me recentemente para revelar um lado meu que você nunca viu. Acabei de abrir meu Privacy e hoje vou te deixar sem fôlego!{"\n\n"}
+                Oi, meu amor! 🔥💦 Sou a Bah, organizadora desse album feito só pra você. Separei-me recentemente para revelar um lado meu que você nunca viu. Acabei de abrir meu Privacy e hoje vou te deixar sem fôlego!{"\n\n"}
                 Aqui você vai encontrar minha nova vida, sem censura: vídeos exclusivos, momentos íntimos e fotos picantes. 😏 Cada centímetro do meu corpo é pura tentação e minhas mídias são um convite para você explorar seus desejos mais secretos.
               </p>
               <button
